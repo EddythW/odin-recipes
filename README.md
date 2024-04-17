@@ -1,1 +1,4 @@
-# odin-recipes
+# odin-recipe
+
+My recipes
+Hello Odin!
